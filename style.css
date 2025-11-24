@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: "Tahoma", sans-serif;
+  font-family: "Vazirmatn", sans-serif;
 }
 body {
   margin: 0;
@@ -126,11 +126,9 @@ footer {
   cursor: pointer;
 }
 
-
-
 /* shared */
-.left-align{
-    text-align: left;
-    padding-inline-end: 25%;
-    margin-top: 0;
+.left-align {
+  text-align: left;
+  padding-inline-end: 25%;
+  margin-top: 0;
 }
