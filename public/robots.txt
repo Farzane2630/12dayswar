@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://12dayswar-fa72740fl-farzane2630s-projects.vercel.app/sitemap.xml
