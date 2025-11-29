@@ -73,7 +73,7 @@ li {
 
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(219px, 1fr));
   gap: 14px;
   margin-top: 14px;
 }
